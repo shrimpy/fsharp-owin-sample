@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Server", "Server.fsproj", "{C24B5B01-979B-47AA-B8D8-AB75BD2206F7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".settings", ".settings", "{28D7A6AD-C21F-432E-B8EC-B4A7B26D768F}"
+	ProjectSection(SolutionItems) = preProject
+		.gitattributes = .gitattributes
+		.gitignore = .gitignore
+		LICENSE = LICENSE
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C24B5B01-979B-47AA-B8D8-AB75BD2206F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C24B5B01-979B-47AA-B8D8-AB75BD2206F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C24B5B01-979B-47AA-B8D8-AB75BD2206F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C24B5B01-979B-47AA-B8D8-AB75BD2206F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
